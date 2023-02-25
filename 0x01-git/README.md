@@ -1,2 +1,1 @@
-This is my Second Read me.
-Updated from the Main Branch
+Update the README.md file from GitHub.com
